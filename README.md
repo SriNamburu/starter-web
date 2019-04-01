@@ -1,7 +1,7 @@
 # Starter Web Project
 
 ## Introduction
-
+This will prove info on Git basics
 
 # Starter Web Repo
 
