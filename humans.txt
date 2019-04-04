@@ -5,6 +5,7 @@
 
     <name>Sri Namburu <role> QA Lead <twitter>
 	<name>Leonard Look<role> DEV MGR <twitter>
+		<name>Sandy Edmondon<role> SBAM Lead <twitter>
 
 # THANKS
 
