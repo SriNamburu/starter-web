@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name>Sri Namburu <role> QA Lead <twitter>
+	<name>Leonard Look<role> DEV MGR <twitter>
 
 # THANKS
 
