@@ -6,7 +6,9 @@ This will prove info on Git basics
 # Starter Web Repo
 
    This repository is for showing how Git and GitHub work
+   This is sample file can be configured.
 ## Deployment
+  This deployment can be done on Tomcat or local files system
 
 Easy to reployment Git using windows installer
 
